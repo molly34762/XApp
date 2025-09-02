@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "author": "Alice",
+      "content": "Just finished building my first Compose screen! 🚀",
+      "timestamp": "2025-09-01T10:00:00Z",
+      "likes": 12,
+      "comments": 3
+    },
+    {
+      "id": 2,
+      "author": "Bob",
+      "content": "Working on integrating Hilt with my ViewModel. Loving DI!",
+      "timestamp": "2025-09-01T12:30:00Z",
+      "likes": 8,
+      "comments": 1
+    },
+    {
+      "id": 3,
+      "author": "Charlie",
+      "content": "Anyone else struggling with Navigation in Compose? 😂",
+      "timestamp": "2025-09-01T15:45:00Z",
+      "likes": 20,
+      "comments": 5
+    }
+  ]
+}
